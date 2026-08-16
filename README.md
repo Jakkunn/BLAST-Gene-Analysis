@@ -43,3 +43,8 @@ This project utilizes the BLAST DNA database to compare the human TP53 gene with
 Chimpanzee and gorilla gene sequences presented the greatest similarity to the human TP53 gene sequence, while more the distantly related dog and mice species showed lower sequence similarity to the human genome. The species that showed the highest sequence similarity to the human TP53 gene was the chimpanzee. This distinct similarity is closely correlated to a shared evolutionary background chimpanzees and humans share. While the TP53 gene is conserved across many species due to its importance in cellular function, certain mutations can change a species's ability to adapt and survive in specific environments, which often correlates to the development of cancers. 
 
 ## What I learned
+
+* Refined RSdtudio syntax skills
+* How to navigate and utilize the NCBI database
+* Reinforced knowledge in using the BLAST DNA subway
+* How to utlilize BLAST data for biomedical application
