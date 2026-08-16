@@ -21,9 +21,9 @@ This project utilizes the BLAST DNA database to compare the human TP53 gene with
 
 ## Files
 
-Comparative-Analysis-of-TP53-Across-Species.html - RStudio project involved in the production of this project
-identity_barplot.png - Image of bar plot of the Identity Percentage data
-identity_scatterplot - Image of scatter plot of the identity Percentage data
+*Comparative-Analysis-of-TP53-Across-Species.html - RStudio project involved in the production of this project
+*identity_barplot.png - Image of bar plot of the Identity Percentage data
+*identity_scatterplot - Image of scatter plot of the identity Percentage data
 
 
 ## Results Overview
