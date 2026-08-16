@@ -44,7 +44,8 @@ Chimpanzee and gorilla gene sequences presented the greatest similarity to the h
 
 ## What I learned
 
-* Refined RSdtudio syntax skills
+* Refined RStudio syntax skills
 * How to navigate and utilize the NCBI database
 * Reinforced knowledge in using the BLAST DNA subway
 * How to utlilize BLAST data for biomedical application
+* Evolutionary linkage between the TP53 gene and cancer development
