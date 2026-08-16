@@ -1,0 +1,10 @@
+Species,,Percent Identity,,Query Coverage,,Bit Score,E Value
+Chimpanzee,,99,,98,,25427,0
+Gorilla,,98,,96,,3887,0
+Mouse,,87,,1,,147,1.00E-36
+Dog,,83,,3,,524,6.00E-55
+Species,X,Percent.Identity,X.1,Query.Coverage,X.2,Bit.Score,E.Value
+Mouse,NA,87,NA,1,NA,147,1e-36
+Gorilla,NA,98,NA,96,NA,3887,0
+Dog,NA,83,NA,3,NA,524,6e-55
+Chimpanzee,NA,99,NA,98,NA,25427,0
