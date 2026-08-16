@@ -23,13 +23,13 @@ This project utilizes the BLAST DNA database to compare the human TP53 gene with
 
 ## Figures
 
+### Identity vs. Coverage
+
+<img width="860" height="516" alt="identity_barplot" src="https://github.com/user-attachments/assets/62f8449b-3fec-4f82-872d-d13409c8e6ae" />
+
+<img width="860" height="516" alt="identity_scatterplot" src="https://github.com/user-attachments/assets/0e1227a9-282b-4b75-aa38-4305a6330f07" />
+
 ## Results
-
-### identity vs. Coverage
-
-![Percent Identity](figures/identity_barplot.png)
-
-![Identity vs Coverage](figures/identity_scatterplot.png)
 
 ## Files
 
